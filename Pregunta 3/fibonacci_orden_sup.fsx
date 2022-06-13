@@ -1,0 +1,1 @@
+val it : ((‘a -> (‘b * ‘a) option) -> ‘a -> seq<‘b>)
